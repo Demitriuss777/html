@@ -1,0 +1,66 @@
+.father {
+    background: coral;
+    display:flex ;
+    justify-content: center;
+}
+.children{
+    width:200px;
+    height: 200px;
+    background:silver;
+    margin: 10px;
+}
+.card{
+    width: 350px;
+    height: 550px;
+    background: #162029;
+}
+.fa-quote-right{
+    font-size: 60px;
+    color: aqua;
+}
+.quotes{
+display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px
+}
+.description{
+    color: azure;
+    box-sizing: border-box;
+    padding: 30px;
+    text-align:center ;
+    font-size: 30px;
+    font-family: Arial;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+img{
+    width: 50px;
+    border-radius: 50%;
+}
+.tekst{
+    font-size: 25px;
+    font-family: "Arial";
+    color:azure ;
+    font-weight: 700;
+    margin-top: 10px;
+
+}
+
+
+.test1 {
+    background:silver;
+width: 100px;
+    height: 100px;
+    color: aqua;
+    text-align: justify;
+    box-sizing: border-box;
+padding:10px;
+.test2 {
+    background: silver;
+width: 100px;
+height: 100px;
