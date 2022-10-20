@@ -1,0 +1,25 @@
+#one{
+    background: silver;
+}
+.two{
+    background: red;
+}
+
+#two{
+    background: silver
+}
+#three{
+    background: coral}
+.fish > li{
+    background: red;
+}
+.fish {
+
+    color: aqua;
+}
+.fish >ol >li{
+    background: silver;
+}
+li:nth-child(5n+15){
+    background: silver;
+}
